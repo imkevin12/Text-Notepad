@@ -1,0 +1,2 @@
+# Text-Notepad
+Python Text Notepad has many features like: In File Menu we have New, Open, Save, Save as and Exit. In Edit we have Cut, Copy, Paste, Clear All, and Find &amp; Replace. In View we have Toolbar and Statusbar. In Color Theme we have Light Default, Light Plus, Dark, Red, Monokai, Night Blue. Also we have Toolbar with various Font Style, Font Size, Bold, Italic, Underline, Left Align, Right Align and Center Align buttons.
